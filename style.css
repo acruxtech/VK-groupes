@@ -1,0 +1,23 @@
+.yourmessage {
+    display: table;
+    border: 2px solid #dedede;
+    border-radius: 5px;
+    border-color: #ccc;
+    background-color: #ddd;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.mymessage {
+    display: table;
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0 0 auto;
+}
+
+input {
+    margin-top: 10px;
+    font-size: 20px;
+}
